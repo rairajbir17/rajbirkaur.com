@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>WMDD 4995: Industry Topics II on Rajbir Rai&#39;s Blogs</title>
+    <link>http://dmtech.sytes.net:5080/rajbir/</link>
+    <description>Recent content in WMDD 4995: Industry Topics II on Rajbir Rai&#39;s Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Apr 2017 18:36:24 +0200</lastBuildDate>
+    
+	<atom:link href="http://dmtech.sytes.net:5080/rajbir/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Installation</title>
+      <link>http://dmtech.sytes.net:5080/rajbir/getting-start-with-prestashop/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dmtech.sytes.net:5080/rajbir/getting-start-with-prestashop/installation/</guid>
+      <description>PHP 5.4 or later: minimum required to use Prestashop 1.7.Installing Prestashop Prestashop is very easy to install.
+Before start real work:
+ Download the Prestashop Download Install it on Your Server Customize your E-Commerce Site  Download the Prestashop From the prestashop official website, First download the Package. You can download it from the website for Windows System or For Linux System with the commands in your cmd.</description>
+    </item>
+    
+    <item>
+      <title>Database Initialization</title>
+      <link>http://dmtech.sytes.net:5080/rajbir/getting-start-with-prestashop/database/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dmtech.sytes.net:5080/rajbir/getting-start-with-prestashop/database/</guid>
+      <description>For prestashop installation we need one new database. You can create database on your web server. In case there is no MySql user who has all privileges for accessing and modifying this database, create it as well.
+ Step 1: Make connection with the database  Step 2: With the following command, create the database
+  create database prestashop;  Next Step: Configuration Follow instructions here</description>
+    </item>
+    
+    <item>
+      <title>Configuration</title>
+      <link>http://dmtech.sytes.net:5080/rajbir/getting-start-with-prestashop/configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dmtech.sytes.net:5080/rajbir/getting-start-with-prestashop/configuration/</guid>
+      <description>Configure the website and the admin via browser
+Go to the website URL(eg: http://example.com) in the browser to start the setup process.
+Please go through the following screenshots for the setup process.
+This is the installation page, select the desired language and click Next.
+Then you will see license agreement page.
+Check box the agreement and click Next. Then comes the store information page.
+Fill all the necessary information and admin page information and click Next.</description>
+    </item>
+    
+    <item>
+      <title>header</title>
+      <link>http://dmtech.sytes.net:5080/rajbir/_header/</link>
+      <pubDate>Mon, 24 Apr 2017 18:36:24 +0200</pubDate>
+      
+      <guid>http://dmtech.sytes.net:5080/rajbir/_header/</guid>
+      <description>Rajbir Kaur&amp;rsquo;s Blog</description>
+    </item>
+    
+    <item>
+      <title>Credits</title>
+      <link>http://dmtech.sytes.net:5080/rajbir/credits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dmtech.sytes.net:5080/rajbir/credits/</guid>
+      <description>This blog is created by Rajbir Kaur.</description>
+    </item>
+    
+    <item>
+      <title>Rajbir&#39;s Sites</title>
+      <link>http://dmtech.sytes.net:5080/rajbir/showcase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://dmtech.sytes.net:5080/rajbir/showcase/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

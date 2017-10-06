@@ -1,0 +1,71 @@
+[
+{
+	"uri": "http://dmtech.sytes.net:5080/rajbir/getting-start-with-prestashop/",
+	"title": "Getting started with Prestashop",
+	"tags": [],
+	"description": "",
+	"content": " PrestaShop is an open source application which enables you to create your e-commerce site quickly, free of charge. Download Prestashop, install the software and start selling online.\nThis guide is mainly target to people who are wishing to SELL their store products online.\nSystem Requirements: Following is the list of system requirements need to get started with the installation of Prestashop.\n System Requirements:  Php 5.4 or later MySQL 5.0 or later Good if  Unix/Linux hosting. Apache Web Server 2.0 or later. Minimum 128 Mb RAM.    \rInstallation\r\n\rDatabase Initialization\r\n\rConfiguration\r\n\r"
+},
+{
+	"uri": "http://dmtech.sytes.net:5080/rajbir/getting-start-with-prestashop/installation/",
+	"title": "Installation",
+	"tags": [],
+	"description": "",
+	"content": " PHP 5.4 or later: minimum required to use Prestashop 1.7.\rInstalling Prestashop Prestashop is very easy to install.\nBefore start real work:\n Download the Prestashop \rDownload Install it on Your Server Customize your E-Commerce Site  Download the Prestashop From the prestashop official website, First download the Package. You can download it from the website for Windows System or For Linux System with the commands in your cmd.\nLinux System $ wget https://www.prestashop.com/en/download-success  AFTER that, install unzip package if it is not installed already in the Linux System.\n$ apt-get install unzip  Extract the file in the var/www/html folder (first recommended):\n$ unzip prestashop_1.6.0.9.zip -d /var/www/html  Appropriate permissions for Prestashop, as follows:\nchmod 640 www-data:www-data/var/www/html/prestashop  Windows System For Windiws: Extract the downloaded ZIP file and upload the files to the public_html directory on your server via FTP( You can use winSCP- https://winscp.net/eng/download.php or FileZilla- https://filezilla-project.org)\n Step 1: Download the latest version of the prestashop from the prestashop Website \rDownload  Step 2: Login to your ftp account.  Extract the downloaded prestashop package and upload to the root directory of your website.   Do not upload the root/prestashop folder directly: only the files and folders that it contains.\rNext Step: Database initialization. Follow instructions here\n"
+},
+{
+	"uri": "http://dmtech.sytes.net:5080/rajbir/getting-start-with-prestashop/database/",
+	"title": "Database Initialization",
+	"tags": [],
+	"description": "",
+	"content": " For prestashop installation we need one new database. You can create database on your web server. In case there is no MySql user who has all privileges for accessing and modifying this database, create it as well.\n Step 1: Make connection with the database  Step 2: With the following command, create the database\n  create database prestashop;  Next Step: Configuration Follow instructions here\n"
+},
+{
+	"uri": "http://dmtech.sytes.net:5080/rajbir/getting-start-with-prestashop/configuration/",
+	"title": "Configuration",
+	"tags": [],
+	"description": "",
+	"content": "Configure the website and the admin via browser\nGo to the website URL(eg: http://example.com) in the browser to start the setup process.\nPlease go through the following screenshots for the setup process.\nThis is the installation page, select the desired language and click Next.\nThen you will see license agreement page.\nCheck box the agreement and click Next. Then comes the store information page.\nFill all the necessary information and admin page information and click Next. Then you will see the database information page.\nFill all the information about databases like databse name, MySql username, password etc. and Click Next. This will complete the installation. And you can go into Front Office(Public)and Back office(Back office)\nYou can login to the admin page with the login credentialas that you have enterted in the store information page.\nNow, You are ready to customize and start selling online.\nAfter Installation\rnavigate to your website [eg: http://example.com).\nYou will see the dumy products. Customize them through the admin panel and you are ready to go with your online store.\n\rI hope you enjoyed my tutorial\r\r"
+},
+{
+	"uri": "http://dmtech.sytes.net:5080/rajbir/",
+	"title": "WMDD 4995: Industry Topics II",
+	"tags": [],
+	"description": "",
+	"content": " Course Description In order to succeed, both designers and develops must be able to identify and converse about emerging trends in the web and mobile world. In a continuation of WMDD 4990, students independently find industry speakers and present further topics, seminar style, from their own research.\nPrerequisite(s): A minimum \u0026ldquo;C\u0026rdquo; grade in WMDD 4900.\nRegistration in this course is restricted to students admitted to the Post-Degree Diploma in Web and Mobile App Design and Development Program.\nLearning Outcome  Students will continue to develop knowledge of the industry through several small research projects. Students will gain familiarity with the statics itegenerator Hugo,which they will use to create a blog(and portfolio for the designers) that will be the output of their research. Studentswillinteractprofessionallywithmembersofindustry Studentswilllearntoarticulatewaysofadaptingtochangesinstandardsandtechnologies.  Textbook and Course Materials: No Text books are required Every one has to do their own research in order to pass this course.\rList of Blogs  Blog 1: Getting Started with Prestashop Blog 2: Difference between Wordpress, Prestashop and Magento  "
+},
+{
+	"uri": "http://dmtech.sytes.net:5080/rajbir/_header/",
+	"title": "header",
+	"tags": [],
+	"description": "",
+	"content": "Rajbir Kaur\u0026rsquo;s Blog\n"
+},
+{
+	"uri": "http://dmtech.sytes.net:5080/rajbir/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://dmtech.sytes.net:5080/rajbir/credits/",
+	"title": "Credits",
+	"tags": [],
+	"description": "All the creditits goes to Langara College for this course.",
+	"content": "This blog is created by Rajbir Kaur.\n"
+},
+{
+	"uri": "http://dmtech.sytes.net:5080/rajbir/showcase/",
+	"title": "Rajbir&#39;s Sites",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "http://dmtech.sytes.net:5080/rajbir/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]
